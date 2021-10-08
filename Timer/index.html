@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="style.css"  type="text/css">
+    </head>
+    <body>
+        <div class="act">
+            <input type="button" onclick="Timer.start()" value="Запустить" id="start">
+            <input type="button" onclick="Timer.stop()" value="Остановить" id="stop">
+            <input type="button" onclick="Timer.startAgain()" value="Сбросить" id="startAg">
+        </div>
+        <div class="Counting">
+              <p id="addHour"> 0</p> 
+              <p id="addMinute"> 0</p> 
+              <p id="addSecond"> 0</p>
+        </div>
+        <div class="tit">
+            <p>Hour</p>
+            <p>Minute</p>
+            <p>Second</p>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

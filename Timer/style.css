@@ -1,0 +1,29 @@
+
+input{
+    padding: 20px;
+    font-size: 20px;
+     
+}
+#start{
+    background-color: red;
+}
+#stop{
+    background-color: orange;
+}
+#startAg{
+    background-color: green;
+}
+.Counting{
+    font-size: 30px;
+    display: flex;
+
+}
+#addHour,#addMinute,#addSecond{
+    padding: 20px 40px 10px 20px;
+}
+.tit{
+    display: flex;
+    max-width: 200px;
+    justify-content: space-between;
+    padding-left: 20px;
+}

@@ -1,0 +1,67 @@
+body{
+	font-size: 50%;
+}
+.Text{
+	font-size: 23px;
+
+}
+.menu_nav{
+	font-size: 15px;
+	color:  #40200E;
+
+}
+.menu{
+	height: 50px;
+}
+.menu_logo_img{
+	height: 120%;
+	
+}
+.menu_SUPPORT_img{
+	height: 40%;
+
+}
+input{
+	margin-top: 13%;
+	width: 180%;
+	height: 45%;
+}
+.BLOCK2{
+	padding-top: : 50%;
+	font-size: 17px;
+}
+.header{
+	height: 550px;
+}
+.advantage{
+	font-size: 19px;
+}
+.section_block1_img{
+	height: 30%;
+}
+.section_block1{
+	
+	font-size: 19px;
+	
+}
+.section_block2{
+	
+	font-size: 19px;
+}
+.section_block3{
+	
+	font-size: 19px;
+}
+.section_block4{
+	font-size: 19px;
+}
+
+.footer_block_text{
+	font-size: 15px;
+	padding: 0.5%;
+
+}
+.footer_block{
+	padding-left: 5%;
+	padding-right: 5%;
+}
